@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace AuthorProject.Repositiory
 {
+    //Class 
    public class BookRepositiory:AuthorBookContext
     {
         public AuthorBookContext RepObjBook { get; set; }
