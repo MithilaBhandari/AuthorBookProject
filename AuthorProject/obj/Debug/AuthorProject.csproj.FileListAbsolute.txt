@@ -1,0 +1,17 @@
+C:\Users\User.TSW-KDS-14\source\repos\AuthorProject\AuthorProject\bin\Debug\AuthorProject.exe.config
+C:\Users\User.TSW-KDS-14\source\repos\AuthorProject\AuthorProject\bin\Debug\AuthorProject.exe
+C:\Users\User.TSW-KDS-14\source\repos\AuthorProject\AuthorProject\bin\Debug\AuthorProject.pdb
+C:\Users\User.TSW-KDS-14\source\repos\AuthorProject\AuthorProject\bin\Debug\EntityFramework.dll
+C:\Users\User.TSW-KDS-14\source\repos\AuthorProject\AuthorProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User.TSW-KDS-14\source\repos\AuthorProject\AuthorProject\bin\Debug\EntityFramework.xml
+C:\Users\User.TSW-KDS-14\source\repos\AuthorProject\AuthorProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User.TSW-KDS-14\source\repos\AuthorProject\AuthorProject\obj\Debug\AuthorProject.Properties.Resources.resources
+C:\Users\User.TSW-KDS-14\source\repos\AuthorProject\AuthorProject\obj\Debug\AuthorProject.View.AuthorDetails.resources
+C:\Users\User.TSW-KDS-14\source\repos\AuthorProject\AuthorProject\obj\Debug\AuthorProject.View.BookDetails.resources
+C:\Users\User.TSW-KDS-14\source\repos\AuthorProject\AuthorProject\obj\Debug\AuthorProject.csproj.GenerateResource.cache
+C:\Users\User.TSW-KDS-14\source\repos\AuthorProject\AuthorProject\obj\Debug\AuthorProject.csproj.CoreCompileInputs.cache
+C:\Users\User.TSW-KDS-14\source\repos\AuthorProject\AuthorProject\obj\Debug\AuthorProject.csproj.CopyComplete
+C:\Users\User.TSW-KDS-14\source\repos\AuthorProject\AuthorProject\obj\Debug\AuthorProject.exe
+C:\Users\User.TSW-KDS-14\source\repos\AuthorProject\AuthorProject\obj\Debug\AuthorProject.pdb
+C:\Users\User.TSW-KDS-14\source\repos\AuthorProject\AuthorProject\obj\Debug\AuthorProject.View.AuthorList1.resources
+C:\Users\User.TSW-KDS-14\source\repos\AuthorProject\AuthorProject\obj\Debug\AuthorProject.csproj.AssemblyReference.cache
